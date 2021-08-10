@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+p {
+  margin-bottom: 10px;
+}
+input.form-control {
+  width: 100px;
+}
+.bmiIndex {
+  width: 100%;
+  max-width: 630px;
+  margin: 20px auto;
+}
+.bmiIndex--heading {
+  padding: 16px;
+  font-size: 32px;
+  font-weight: 700;
+  background-color: #005eb8;
+  color: #ffffff;
+  line-height: 40px;
+}
+.bmiIndex--content {
+  border: 3px solid #005eb8;
+  padding: 13px;
+}
+.bmiIndex--param {
+  padding: 15px 0;
+  border-bottom: 1px solid #cccccc;
+}
+.bmiIndex--action {
+  padding: 15px 0;
+}
+.bmiIndex--switch-input button,
+.bmiIndex--action-reset button {
+  text-decoration: underline;
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+.bmiIndex--action-calculate button {
+  background-color: #005eb8;
+  color: #ffffff;
+}
+.bmiIndex--result h3 {
+  font-size: 36px;
+  font-weight: 700;
+}
+.bmiIndex--result img {
+  width: 300px;
+}
+.underweight {
+  color: #006995;
+}
+.normal {
+  color: #00c6c8;
+}
+.overweight {
+  color: #ffa982;
+}
+.obese {
+  color: #ff7d35;
+}
