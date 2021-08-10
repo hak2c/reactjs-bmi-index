@@ -1,2 +1,3 @@
 # reactjs-bmi-index
-Created with CodeSandbox
+
+Calculate BMI Index
